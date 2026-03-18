@@ -1,0 +1,18 @@
+{
+  "shortId": "8b0774af",
+  "files": [
+    {
+      "fileName": "eZMTBbE.jpg",
+      "fileSize": 16466,
+      "mimeType": "image/jpeg",
+      "telegramMessageId": 10,
+      "telegramFileId": "BQACAgUAAyEGAAThybXJAAMKabs7TIu25SnfJPuqoNfeA7EhD44AAqceAAJCJdlVueBnZ_UGT4c6BA",
+      "checksum": "003555760ed580d97bd16bb5925e50cfeda1d407caf9841c9eb7ab7b9e0ba73f"
+    }
+  ],
+  "totalFiles": 1,
+  "totalSize": 16466,
+  "createdAt": "2026-03-18T23:54:51.779Z",
+  "expiresAt": "2026-03-19T23:54:51.779Z",
+  "expirationDays": 1
+}
