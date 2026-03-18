@@ -1,0 +1,27 @@
+{
+  "uploadId": "0b6e8d3d10f336406f2114adb842605a",
+  "shortId": "0b6e8d3d",
+  "files": [
+    {
+      "fileName": "avfileproject.zip",
+      "fileSize": 115324,
+      "mimeType": "application/octet-stream",
+      "telegramMessageId": 7,
+      "telegramFileId": "BQACAgUAAyEGAAThybXJAAMHabstP3lSQG_KhYuyrPOIdTq0jgQAAqAeAAJCJdlVqd5fgqFP1V86BA",
+      "checksum": "2b5f0f8d5953d2aea1a8a3c3a5fb32ac102263d5a25a5e858ef78b85147429da"
+    },
+    {
+      "fileName": "avfiletg.zip",
+      "fileSize": 3071516,
+      "mimeType": "application/octet-stream",
+      "telegramMessageId": 8,
+      "telegramFileId": "BQACAgUAAyEGAAThybXJAAMIabstQ-p8vO6MT8ZD2nNIH4FYAAGwAAKhHgACQiXZVVX6Y2XnO1fiOgQ",
+      "checksum": "c03cd6c073fbe269635af0d7b41da38a0ae740346adef389bcebbcd7938eab8d"
+    }
+  ],
+  "totalFiles": 2,
+  "totalSize": 3186840,
+  "createdAt": "2026-03-18T22:54:53.666Z",
+  "expiresAt": "2026-03-25T22:54:53.666Z",
+  "expirationDays": 7
+}
