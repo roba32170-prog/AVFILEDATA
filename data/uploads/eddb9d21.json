@@ -1,0 +1,18 @@
+{
+  "shortId": "eddb9d21",
+  "files": [
+    {
+      "fileName": "IMG_4002.jpg",
+      "fileSize": 920417,
+      "mimeType": "image/jpeg",
+      "telegramMessageId": 13,
+      "telegramFileId": "BQACAgUAAyEGAAThybXJAAMNabtF9_UwlNxWPNZceCjjoLEYx-0AArweAAJCJdlV54YCnAIUskI6BA",
+      "checksum": "31a6863b8e5e97b887e3072ffd8dd89713275d3436a2a8b3a482b2f3bd321eb7"
+    }
+  ],
+  "totalFiles": 1,
+  "totalSize": 920417,
+  "createdAt": "2026-03-19T00:40:21.947Z",
+  "expiresAt": "2026-03-20T00:40:21.947Z",
+  "expirationDays": 1
+}
