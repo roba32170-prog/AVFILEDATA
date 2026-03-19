@@ -1,0 +1,19 @@
+{
+  "uploadId": "7c17232d21fd634b78bc275b11d8fd82",
+  "shortId": "7c17232d",
+  "files": [
+    {
+      "fileName": "2026-03-02 18-21-15.mp4",
+      "fileSize": 2525107,
+      "mimeType": "video/mp4",
+      "telegramMessageId": 19,
+      "telegramFileId": "",
+      "checksum": "ed7a001fd6fb4e83ef070ff12d9cb720ecc5fea734dc4321946a406f1c3761e7"
+    }
+  ],
+  "totalFiles": 1,
+  "totalSize": 2525107,
+  "createdAt": "2026-03-19T04:58:08.292Z",
+  "expiresAt": "2026-03-20T04:58:08.292Z",
+  "expirationDays": 1
+}
