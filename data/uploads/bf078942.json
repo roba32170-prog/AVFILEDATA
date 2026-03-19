@@ -1,0 +1,18 @@
+{
+  "shortId": "bf078942",
+  "files": [
+    {
+      "fileName": "account-hanbai (4).zip",
+      "fileSize": 120465,
+      "mimeType": "application/x-zip-compressed",
+      "telegramMessageId": 18,
+      "telegramFileId": "BQACAgUAAyEGAAThybXJAAMSabtjCXWqbjGwGGmzW_Sd8EQ4YzcAAvEeAAJCJdlV5UKnF-HkA_w6BA",
+      "checksum": "8edfbf62a1cb05f0f0916002b09914a36f0995d918f14b0ea02cb7a8cea9c85d"
+    }
+  ],
+  "totalFiles": 1,
+  "totalSize": 120465,
+  "createdAt": "2026-03-19T02:44:23.952Z",
+  "expiresAt": "2026-03-20T02:44:23.952Z",
+  "expirationDays": 1
+}
