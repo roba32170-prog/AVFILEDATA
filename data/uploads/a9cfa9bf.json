@@ -1,0 +1,19 @@
+{
+  "uploadId": "a9cfa9bf2ccdc82782080f8478f7357c",
+  "shortId": "a9cfa9bf",
+  "files": [
+    {
+      "fileName": "4442255(4442255)_20260311163355.mp3",
+      "fileSize": 1120128,
+      "mimeType": "audio/mpeg",
+      "telegramMessageId": 20,
+      "telegramFileId": "",
+      "checksum": "a0df25713f7f0b4c30607358e5aad8688f98dcf0ce52b719e63615f5b36cdaa0"
+    }
+  ],
+  "totalFiles": 1,
+  "totalSize": 1120128,
+  "createdAt": "2026-03-19T19:13:06.976Z",
+  "expiresAt": "2026-04-18T19:13:06.976Z",
+  "expirationDays": 30
+}
