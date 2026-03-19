@@ -1,0 +1,18 @@
+{
+  "shortId": "7c3216a0",
+  "files": [
+    {
+      "fileName": "sw.js",
+      "fileSize": 156,
+      "mimeType": "text/javascript",
+      "telegramMessageId": 16,
+      "telegramFileId": "BQACAgUAAyEGAAThybXJAAMQabtZ9oolC_4pFpRqOUI3HnVmCy8AAuEeAAJCJdlVAAF9Hb8nvGCdOgQ",
+      "checksum": "29eef463f95e07c9a84abb4202dca15f8b2d953681affb4feb940009f4f40c5f"
+    }
+  ],
+  "totalFiles": 1,
+  "totalSize": 156,
+  "createdAt": "2026-03-19T02:05:42.097Z",
+  "expiresAt": "2026-03-20T02:05:42.097Z",
+  "expirationDays": 1
+}
