@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ORD_1775441414709_TQAW1Q",
+    "productId": "prod_1775439695143",
+    "productName": {
+      "en": "Secret Lucky Block ×1",
+      "ja": "シークレットラッキーブロック ×1"
+    },
+    "productImage": "https://raw.githubusercontent.com/roba32170-prog/AVFILEDATA/main/images/1775439692649_219qqww65.png",
+    "price": 0.01,
+    "totalPrice": 0.01,
+    "quantity": 1,
+    "currency": "USD",
+    "paymentMethod": "paypay",
+    "paypayLink": "a",
+    "userName": "a",
+    "userEmail": "a",
+    "status": "pending",
+    "timerPaused": false,
+    "adminJoined": false,
+    "createdAt": "2026-04-06T02:10:15.569Z",
+    "updatedAt": "2026-04-06T02:10:15.570Z"
+  }
+]
