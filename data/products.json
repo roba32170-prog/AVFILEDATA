@@ -11,13 +11,13 @@
     },
     "price": "5",
     "currency": "USD",
-    "stock": 0,
+    "stock": 1,
     "image": "https://raw.githubusercontent.com/roba32170-prog/AVFILEDATA/main/images/1775446029199_prod_1775446019175.png",
     "category": "gacha",
     "tags": "secret lucky block ×10",
     "game": "Steal a Brainrot",
     "rarity": "common",
     "createdAt": "2026-04-06T03:26:59.175Z",
-    "updatedAt": "2026-04-06T03:34:35.920Z"
+    "updatedAt": "2026-04-06T03:35:48.411Z"
   }
 ]
