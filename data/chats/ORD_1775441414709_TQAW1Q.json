@@ -74,6 +74,15 @@
       "sender": "admin",
       "content": "あ",
       "timestamp": "2026-04-06T02:13:26.505Z"
+    },
+    {
+      "id": "slza7y8miamnmk3o3x",
+      "sender": "system",
+      "content": "✕ Order has been cancelled by admin.",
+      "timestamp": "2026-04-06T02:13:43.245Z",
+      "metadata": {
+        "type": "cancellation"
+      }
     }
   ]
 }
