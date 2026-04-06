@@ -59,10 +59,10 @@
     "paypayLink": "https://pay.paypay.ne.jp/KbMoxBYq0KgUkMcs",
     "userName": "test",
     "userEmail": "test",
-    "status": "pending",
+    "status": "cancelled",
     "timerPaused": true,
     "adminJoined": true,
     "createdAt": "2026-04-06T03:19:57.443Z",
-    "updatedAt": "2026-04-06T03:20:17.448Z"
+    "updatedAt": "2026-04-06T03:20:25.425Z"
   }
 ]
