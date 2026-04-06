@@ -44,27 +44,6 @@
     "updatedAt": "2026-04-06T04:05:45.198Z"
   },
   {
-    "id": "prod_1775448735949",
-    "name": {
-      "en": "Burguro and Fryuro 1",
-      "ja": "Burguro and Fryuro 1"
-    },
-    "description": {
-      "en": "Burguro and Fryuro",
-      "ja": "Burguro and Fryuro"
-    },
-    "price": "6.2",
-    "currency": "USD",
-    "stock": 0,
-    "image": "https://raw.githubusercontent.com/roba32170-prog/AVFILEDATA/main/images/1775448748431_prod_1775448735949.png",
-    "category": "general",
-    "tags": [],
-    "game": "Steal a Brainrot",
-    "rarity": "common",
-    "createdAt": "2026-04-06T04:12:15.949Z",
-    "updatedAt": "2026-04-06T04:23:42.267Z"
-  },
-  {
     "id": "prod_1775449324940",
     "name": {
       "en": "Pot Hotspot 1",
