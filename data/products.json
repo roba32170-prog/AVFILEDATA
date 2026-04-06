@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "prod_1775439695143",
+    "name": {
+      "en": "Secret Lucky Block ×1",
+      "ja": "シークレットラッキーブロック ×1"
+    },
+    "description": {
+      "en": "Secret Lucky Block ×1",
+      "ja": "シークレットラッキーブロック ×1"
+    },
+    "price": 0.01,
+    "currency": "USD",
+    "stock": 1,
+    "image": "https://raw.githubusercontent.com/roba32170-prog/AVFILEDATA/main/images/1775439692649_219qqww65.png",
+    "category": "test",
+    "tags": [
+      "test"
+    ],
+    "game": "Steal a Brainrot",
+    "rarity": "common",
+    "createdAt": "2026-04-06T01:41:35.143Z",
+    "updatedAt": "2026-04-06T01:41:35.143Z"
+  }
+]
