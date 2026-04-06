@@ -1,0 +1,13 @@
+{
+  "messages": [
+    {
+      "id": "zeg45wecncpmnmosynw",
+      "sender": "system",
+      "content": "👑 Admin has joined the chat.",
+      "timestamp": "2026-04-06T04:25:21.788Z",
+      "metadata": {
+        "type": "admin_joined"
+      }
+    }
+  ]
+}
