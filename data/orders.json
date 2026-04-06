@@ -81,10 +81,10 @@
     "paypayLink": "https://pay.paypay.ne.jp/KbMoxBYq0KgUkMcs",
     "userName": "test",
     "userEmail": "takatoriye@gmail.com",
-    "status": "pending",
+    "status": "cancelled",
     "timerPaused": true,
     "adminJoined": true,
     "createdAt": "2026-04-06T03:34:35.826Z",
-    "updatedAt": "2026-04-06T03:35:37.052Z"
+    "updatedAt": "2026-04-06T03:35:48.302Z"
   }
 ]
