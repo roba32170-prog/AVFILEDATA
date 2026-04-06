@@ -19,5 +19,28 @@
     "rarity": "common",
     "createdAt": "2026-04-06T03:26:59.175Z",
     "updatedAt": "2026-04-06T03:35:48.411Z"
+  },
+  {
+    "id": "prod_1775448345198",
+    "name": {
+      "en": "La Grande Combinasion ×1",
+      "ja": "La Grande Combinasion ×1"
+    },
+    "description": {
+      "en": "La Grande Combinasion 1",
+      "ja": "La Grande Combinasion ×1"
+    },
+    "price": 1,
+    "currency": "USD",
+    "stock": 1,
+    "image": "https://raw.githubusercontent.com/roba32170-prog/AVFILEDATA/main/images/1775448343275_chtvekxpj.png",
+    "category": "La Grande Combinasion",
+    "tags": [
+      "La Grande Combinasion"
+    ],
+    "game": "Steal a Brainrot",
+    "rarity": "common",
+    "createdAt": "2026-04-06T04:05:45.198Z",
+    "updatedAt": "2026-04-06T04:05:45.198Z"
   }
 ]
