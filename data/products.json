@@ -55,14 +55,14 @@
     },
     "price": "6.2",
     "currency": "USD",
-    "stock": 1,
+    "stock": 0,
     "image": "https://raw.githubusercontent.com/roba32170-prog/AVFILEDATA/main/images/1775448748431_prod_1775448735949.png",
     "category": "general",
     "tags": [],
     "game": "Steal a Brainrot",
     "rarity": "common",
     "createdAt": "2026-04-06T04:12:15.949Z",
-    "updatedAt": "2026-04-06T04:12:29.114Z"
+    "updatedAt": "2026-04-06T04:23:42.267Z"
   },
   {
     "id": "prod_1775449324940",
