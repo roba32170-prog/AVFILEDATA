@@ -42,5 +42,27 @@
     "adminJoined": false,
     "createdAt": "2026-04-06T02:14:30.428Z",
     "updatedAt": "2026-04-06T02:44:31.134Z"
+  },
+  {
+    "id": "ORD_1775445596420_P0MH9I",
+    "productId": "prod_1775444288813",
+    "productName": {
+      "en": "シークレットラッキーブロック ×1",
+      "ja": "シークレットラッキーブロック ×1"
+    },
+    "productImage": "",
+    "price": 0.01,
+    "totalPrice": 0.01,
+    "quantity": 1,
+    "currency": "USD",
+    "paymentMethod": "paypay",
+    "paypayLink": "https://pay.paypay.ne.jp/KbMoxBYq0KgUkMcs",
+    "userName": "test",
+    "userEmail": "test",
+    "status": "pending",
+    "timerPaused": false,
+    "adminJoined": false,
+    "createdAt": "2026-04-06T03:19:57.443Z",
+    "updatedAt": "2026-04-06T03:19:57.443Z"
   }
 ]
